@@ -479,18 +479,18 @@ h2.state-headline { font-family: GoodWeb-Book; font-weight: 900; color: #444; ma
 .bop .art.gop { float: right }
 
 .bop .art.gop.pres.y2016, .bop .art.gop.pres.y2020, .bop .art.gop.pres.y2116 { 
-    background-image: url(https://www.bild.de/staticdata/wahlen/pw_us/img/par_us_2/can_us_21.png);
-    border-width: 3px;
-    border-style: solid;
-    border-radius: 50%;
-    border-color: #dd0000;
+    background-image: url(https://www.bild.de/staticdata/wahlen/pw_us/img/par_us_2/can_us_21.png) !important;
+    border-width: 3px !important;
+    border-style: solid !important;
+    border-radius: 50% !important;
+    border-color: #dd0000 !important;
 }
 .bop .art.dem.pres.y2020 { 
-    background-image: url(https://www.bild.de/staticdata/wahlen/pw_us/img/par_us_1/can_us_12.png);
-    border-width: 3px;
-    border-style: solid;
-    border-radius: 50%;
-    border-color: #03266a;
+    background-image: url(https://www.bild.de/staticdata/wahlen/pw_us/img/par_us_1/can_us_12.png) !important;
+    border-width: 3px !important;
+    border-style: solid !important;
+    border-radius: 50% !important;
+    border-color: #03266a !important;
 }
 
 
