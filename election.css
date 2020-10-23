@@ -1,6 +1,6 @@
-.office-nav {display: none !important}
+.office-nav, .expected-vote-summary {display: none !important}
 body { font-family: GoodWeb-Book, Arial Narrow, Arial, sans-serif; background-color: #fff }
-#app { max-width: 960px; margin: 0 auto }
+#app { max-width: 1500px; margin: 0 auto }
 h1 { font-family: GoodWeb-CondBook; font-size: 1.2em; font-weight: 100; color: #444; margin: .3em 0 .4em; text-transform: uppercase }
 h1 { text-align: center }
 .mast { margin: 0 auto; display: none !important}
