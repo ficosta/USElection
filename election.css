@@ -1,5 +1,5 @@
 .office-nav, .expected-vote-summary {display: none !important}
-body { font-family: GoodWeb-Book, Arial Narrow, Arial, sans-serif; background-color: #fff }
+body { font-family: GoodWeb-Book, Arial Narrow, Arial, sans-serif; background-color: #fff; margin: 0; }
 #app { max-width: 1500px; margin: 0 auto }
 h1 { font-family: GoodWeb-CondBook; font-size: 1.2em; font-weight: 100; color: #444; margin: .3em 0 .4em; text-transform: uppercase }
 h1 { text-align: center }
@@ -442,7 +442,7 @@ h2.state-headline { font-family: GoodWeb-Book; font-weight: 900; color: #444; ma
 .race-chips a.race-chip.race-chip-winner { opacity: 1 }
 .race-chips a.race-chip.no-lead { color: #000; background-color: #b5b5b6 }
 .race-chips a.race-chip .ruid { margin-right: 4px }
-.bop { width: 100%; margin-bottom: 1em }
+.bop { width: 100%; margin-bottom: 1em; margin-top: 1em;}
 .bop .label { display: inline; font-family: GoodWeb-CondBold; font-size: 1.3em; line-height: .6em }
 .bop .label.dem { float: left }
 .bop .label.gop { float: right }
