@@ -528,4 +528,4 @@ h2.state-headline { font-family: GoodWeb-Book; font-weight: 900; color: #444; ma
 .loading .loading-carto { margin: 30px 0 12px }
 .loading .loading-carto .loading-carto-rect { fill-opacity: .2; transition: fill-opacity .4s }
 .loading .loading-carto .loading-carto-rect.visible { fill-opacity: 1 }
-
+#elections-widget{ background-color: transparent !important;}
