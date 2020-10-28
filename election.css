@@ -2394,33 +2394,3 @@ h2.state-headline {
 .ap-content-wrapper {
 	padding-bottom: 0% !important;
 }
-
-.floatRight {
-	position: fixed;
-	width: 60px;
-	height: 60px;
-	bottom: 40px;
-	right: 40px;
-	background-color: #dd0000;
-	color: #FFF;
-	border-radius: 50px;
-	text-align: center;
-	box-shadow: 2px 2px 3px #999;
-}
-
-.floatLeft {
-	position: fixed;
-	width: 60px;
-	height: 60px;
-	bottom: 40px;
-	left: 40px;
-	background-color: #03266a;
-	color: #FFF;
-	border-radius: 50px;
-	text-align: center;
-	box-shadow: 2px 2px 3px #999;
-}
-
-.my-float {
-	margin-top: 22px;
-}
