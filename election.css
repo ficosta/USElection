@@ -1952,7 +1952,7 @@ h2.state-headline {
 	font-family: GoodWeb-CondBold;
 	font-size: 1.7em;
 	line-height: .6em;
-	text-transform: uppercase;
+	text-transform: uppercase !important;
 }
 
 .bop .label.dem {
