@@ -2039,7 +2039,8 @@ h2.state-headline {
 }
 
 .bop .vote-wrapper {
-	height: 1.2em
+	height: 1.2em;
+	margin-top: 22px;
 }
 
 .bop .vote-wrapper .votes {
@@ -2105,7 +2106,8 @@ h2.state-headline {
 	color: #2d2d2d;
 	margin-top: -3.8em;
 	line-height: 1em;
-	left: calc(50% - 3em)
+	left: calc(50% - 3em);
+	font-family: GoodWeb-Bold;
 }
 
 .bop .bar .gop {
