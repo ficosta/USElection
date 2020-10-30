@@ -2043,8 +2043,8 @@ h2.state-headline {
 }
 
 .bop .vote-wrapper .votes {
-	font-size: .8em;
-	color: grey;
+	font-size: 1.1em;
+	color: #2d2d2d;
 	margin-top: .3em
 }
 
@@ -2102,7 +2102,7 @@ h2.state-headline {
 	height: 1.5em;
 	position: absolute;
 	width: 6em;
-	color: rgb(73, 73, 73);
+	color: #2d2d2d;
 	margin-top: -3.8em;
 	line-height: 1em;
 	left: calc(50% - 3em)
