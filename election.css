@@ -1950,8 +1950,9 @@ h2.state-headline {
 .bop .label {
 	display: inline;
 	font-family: GoodWeb-CondBold;
-	font-size: 1.3em;
-	line-height: .6em
+	font-size: 1.7em;
+	line-height: .6em;
+	text-transform: uppercase;
 }
 
 .bop .label.dem {
@@ -2045,7 +2046,7 @@ h2.state-headline {
 }
 
 .bop .vote-wrapper .votes {
-	font-size: 1.1em;
+	font-size: 1.8em;
 	color: #2d2d2d;
 	margin-top: .3em
 }
