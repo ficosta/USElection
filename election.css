@@ -2090,17 +2090,17 @@ h2.state-headline {
 }
 
 .bop .bar .divider {
-	height: 1.5em;
-	border-left: 2px solid silver;
+	height: 2.5em;
+	border-left: 4px solid #ffc300;
 	position: absolute;
 	width: 1px;
-	margin-top: -.2em;
+	margin-top: -.9em;
 	left: 50%
 }
 
 .bop .bar .majority {
 	text-align: center;
-	font-size: 1.1em;
+	font-size: 1.5em;
 	height: 1.5em;
 	position: absolute;
 	width: 6em;
