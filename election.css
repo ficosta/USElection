@@ -2025,7 +2025,7 @@ h2.state-headline {
 }
 
 .bop .count {
-	font-size: 2.5em;
+	font-size: 3.5em;
 	font-family: GoodWeb-Bold
 }
 
@@ -2098,12 +2098,12 @@ h2.state-headline {
 
 .bop .bar .majority {
 	text-align: center;
-	font-size: .8em;
+	font-size: 1.1em;
 	height: 1.5em;
 	position: absolute;
 	width: 6em;
-	color: grey;
-	margin-top: -2.8em;
+	color: rgb(73, 73, 73);
+	margin-top: -3.8em;
 	line-height: 1em;
 	left: calc(50% - 3em)
 }
@@ -2130,8 +2130,8 @@ h2.state-headline {
 
 .bop .art {
 	margin-top: -.6em;
-	width: 5em;
-	height: 5.3em;
+	width: 6em;
+	height: 6em;
 	background-size: 100%
 }
 
