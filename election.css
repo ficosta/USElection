@@ -9,7 +9,7 @@ body {
 }
 
 #app {
-	max-width: 1435px;
+	max-width: 1430px;
 	margin: 0 auto
 }
 
@@ -2039,7 +2039,8 @@ h2.state-headline {
 }
 
 .bop .vote-wrapper {
-	height: 1.2em;
+	height: 1.7em;
+	text-shadow: 2px 1px 3px #ffffff;
 	margin-top: 22px;
 }
 
