@@ -1943,7 +1943,7 @@ h2.state-headline {
 
 .bop {
 	width: 100%;
-	margin-bottom: 1em;
+	margin-bottom: 0em !important;
 	margin-top: 1em;
 }
 
@@ -2040,7 +2040,7 @@ h2.state-headline {
 
 .bop .vote-wrapper {
 	height: 1.7em;
-	text-shadow: 2px 1px 3px #ffffff;
+	font-family: 'GoodWeb-Bold';
 	margin-top: 22px;
 }
 
