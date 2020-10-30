@@ -2025,7 +2025,7 @@ h2.state-headline {
 }
 
 .bop .count {
-	font-size: 4.7em;
+	font-size: 4.7em !important;
 	font-family: GoodWeb-Bold
 }
 
