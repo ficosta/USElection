@@ -1490,7 +1490,8 @@ svg .runoff {
 }
 
 .map-legend {
-	text-align: center
+	text-align: center;
+	visibility: hidden;
 }
 
 .map-legend .legend-key {
