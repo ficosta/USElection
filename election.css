@@ -1748,15 +1748,8 @@ h2.state-headline {
 	padding-bottom: 0% !important;
 }
 
-.path .path-S .uncalled .PartyGOP {
-    fill: #ffb3b3 !important;
-    fill-opacity: 0.8 !important;
-}
-.path .path-S .uncalled .PartyDem {
-    fill: #c2e7ff !important;
-    fill-opacity: 0.8 !important;
-}
-.legend-swatch.uncalled.PartyGOP{background-color: #ffb3b3 !important}
-
+.path.path-S.uncalled.PartyGOP {fill: #ffb3b3 !important; fill-opacity: 0.8 !important;}
+.path.path-S.uncalled.PartyDem {fill: #c2e7ff !important; fill-opacity: 0.8 !important;}
+.legend-swatch.uncalled.PartyGOP {background-color: #ffb3b3 !important}
 .legend-swatch.uncalled.PartyDem {background-color: #c2e7ff !important}
 .path.path-S {stroke: #ececec; stroke-width: 2px;}
