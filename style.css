@@ -67,3 +67,23 @@
 body {
     margin: 0px;
 }
+
+.path.path-S.uncalled.PartyGOP {
+    fill: #ffb3b3;
+    fill-opacity: 0.8;
+}
+.path.path-S.uncalled.PartyDem {
+    fill: #c2e7ff;
+    fill-opacity: 0.8;
+}
+.legend-swatch.uncalled.PartyGOP {
+    background-color: #ffb3b3;
+}
+
+.legend-swatch.uncalled.PartyDem {
+    background-color: #c2e7ff;
+}
+.path.path-S {
+    stroke: #ececec;
+    stroke-width: 2px;
+}
